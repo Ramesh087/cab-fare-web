@@ -31,7 +31,7 @@ To run the Cab Fare Prediction Web Application locally, follow these steps:
 1. **Download the Code:**
    - Clone the repository using Git:
      ```bash
-     git clone https://github.com/Ramesh087/cab fare web
+     git clone https://github.com/Ramesh087/cab-fare-web
      ```
    - Alternatively, you can download the code as a ZIP file and extract it to your desired location.
 
